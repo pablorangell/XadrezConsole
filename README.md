@@ -17,7 +17,7 @@ O Menu Principal possui três opções:
 - 3 - EXIBIR JOGADORES CADASTRADOS
 
  <p align="center">
-   <img src="images\menu.png">
+   <img width="700" src="images\menu.png">
 </p>
 
 ### Explicação do Projeto
@@ -38,7 +38,7 @@ O Menu Principal possui três opções:
 
 ### Resultado Final
  <p align="center">
-   <img src="images\tabuleiroepecas.png">
+   <img width="450" src="images\tabuleiroepecas.png">
 </p>
 
 
@@ -53,6 +53,7 @@ O Menu Principal possui três opções:
 
 # Entre em contato comigo
 
+- pablorangelofc@gmail.com
 <a href="https://linkedin.com/in/pablorangelofc" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
