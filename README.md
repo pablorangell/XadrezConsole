@@ -45,7 +45,7 @@ O Menu Principal possui três opções:
 # Dicas
 > *Ótimas dicas sobre Xadrez neste site [site](https://pt.wikihow.com/Vencer-Quase-Sempre-no-Xadrez)*
 
-# Tecnologias Utilizadas
+# Tecnologia Utilizada
 
  <p>
       <a href="#Tecnologias"> <img width="80px" height="80px" alt="img3" title="img3" src="images\csharp.png" /></a> 
@@ -54,7 +54,7 @@ O Menu Principal possui três opções:
 # Entre em contato comigo
 
 - pablorangelofc@gmail.com
-- <a href="https://linkedin.com/in/pablorangelofc" target="_blank">
+<a href="https://linkedin.com/in/pablorangelofc" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
