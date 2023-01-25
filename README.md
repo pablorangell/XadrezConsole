@@ -1,13 +1,13 @@
 # Xadrez Game Console - Sharp Coders
 
 <p align="center">
-  <img width="700" height="230" src="images\xadrez1.jpg">
+  <img width="700" height="240" src="images\xadrez1.jpg">
 </p>
 
 
 # Sobre o Projeto
 
-Projeto desenvolvido durante o programa de formação Sharp Coders da IMÂ Learning Place. O Xadrez de Console foi desenvolvido com intuito de aplicar os conhecimentos de Orirentação a Objetos na linguagem C#.
+Projeto desenvolvido durante o programa de formação Sharp Coders da IMÃ Learning Place. O Xadrez de Console foi desenvolvido com intuito de aplicar os conhecimentos de Orientação a Objetos na linguagem C#.
 
 # Menu do Projeto
 
@@ -54,7 +54,7 @@ O Menu Principal possui três opções:
 # Entre em contato comigo
 
 - pablorangelofc@gmail.com
-<a href="https://linkedin.com/in/pablorangelofc" target="_blank">
+- <a href="https://linkedin.com/in/pablorangelofc" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
