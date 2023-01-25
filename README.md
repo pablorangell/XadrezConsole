@@ -1,7 +1,7 @@
 # Xadrez Game Console - Sharp Coders
 
 <p align="center">
-  <img width="700" height="200" src="images\xadrez1.jpg">
+  <img width="700" height="230" src="images\xadrez1.jpg">
 </p>
 
 
@@ -17,7 +17,7 @@ O Menu Principal possui três opções:
 - 3 - EXIBIR JOGADORES CADASTRADOS
 
  <p align="center">
-   <img width="141" height="164" src="images\menu.png">
+   <img src="images\menu.png">
 </p>
 
 ### Explicação do Projeto
@@ -38,7 +38,7 @@ O Menu Principal possui três opções:
 
 ### Resultado Final
  <p align="center">
-   <img width="141" height="164" src="images\tabuleiroepecas.png">
+   <img src="images\tabuleiroepecas.png">
 </p>
 
 
@@ -47,9 +47,8 @@ O Menu Principal possui três opções:
 
 # Tecnologias Utilizadas
 
- <p align="center">
+ <p>
       <a href="#Tecnologias"> <img width="80px" height="80px" alt="img3" title="img3" src="images\csharp.png" /></a> 
-      <a href="#Tecnologias"> <img width="80px" height="80px" alt="img3" title="img3" src="images\dotnet.png" /></a> 
 </p>
 
 # Entre em contato comigo
